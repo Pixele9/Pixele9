@@ -1,5 +1,10 @@
-### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pixele9&count_private=true)
+# Hi there 👋, I'm Andrés
+### Software Engineer in love with creation and innovation
+- 👨‍💻 I'm passionate about ```.py``` and ```.js```
+- ⚡️ In love with Startups
+
+![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=Pixele9&count_private=true&theme=dark&show_icons=true&hide=prs,issues)
+
 <!--
 **Pixele9/Pixele9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
