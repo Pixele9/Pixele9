@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Andrés
 ### Software Engineer in love with creation and innovation
-- 👨‍💻 I'm passionate about ```.py``` and ```.js```
+- 👨‍💻  I'm passionate about ```.py``` and ```.js```
 - ⚡️ In love with Startups
-- 🧠 I love learning new things
-- 🌱 I'm currently honing my Algorithms and DS skills
-- 👯 I'm looking to collaborate on Open Source projects
-- 📫 How to reach me: http://andres-leal.com
-- 👀 Fun fact: I love developing new learning styles
+- 🧠  I love learning new things
+- 🌱  I'm currently honing my Algorithms and DS skills
+- 👯  I'm looking to collaborate on Open Source projects
+- 📫  How to reach me: http://andres-leal.com
+- 👀  Fun fact: I love developing new learning styles
 
 ![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=Pixele9&count_private=true&theme=dark&show_icons=true&hide=prs,issues)
 
