@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Andrés
 ### Software Engineer in love with creation and innovation
-- 👨‍💻  I'm passionate about ```.js``` and ```.py```
+- 👨‍💻  I'm passionate about ```.js```, ```.py``` and ```.swift```
 - ⚡️ In love with Startups
 - 🧠  I love learning new things
 - 🌱  I'm currently honing my Algorithms and DS skills
